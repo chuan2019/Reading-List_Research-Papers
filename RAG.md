@@ -1,1 +1,4 @@
+# RAG related Papers
+
+## Testing RAG
 C. Niu, et al. (2025) **RAGTruth**: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models [arXiv: 241:00396](https://arxiv.org/abs/2401.00396/)
