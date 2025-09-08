@@ -1,3 +1,12 @@
+# Agentic AI Books
+## Design Patterns 
+
+Antonio Gulli (2025) [Agentic Design Patterns: a Hands On Guide to Building Intelligent Systems](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic)
+
+
+
+
+
 # Agentic AI Research Papers
 
 ## Self-Evolving Agents
