@@ -12,7 +12,8 @@ Antonio Gulli (2025) [Agentic Design Patterns: a Hands On Guide to Building Inte
 ## Self-Evolving Agents
 H. Gao, et al. (2025) _**A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence**_ [arXiv:2507.21046v2](https://arxiv.org/abs/2507.21046)
 
-
+## Small Language Models
+P Belcak et al. (2025) _Small Language Models are the Future of Agentic AI_ [arXiv2506.02153](https://arxiv.org/pdf/2506.02153)
 
 ## Agentic Reinforced Policy Optimization
 G. Dong, et al. (2025) _**Agentic Reinforced Policy Optimization**_ [arXiv:2507.19849v1](https://arxiv.org/abs/2507.19849v1)
