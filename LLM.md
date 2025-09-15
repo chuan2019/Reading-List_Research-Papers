@@ -10,3 +10,6 @@ C. Wu et al. (2025) _Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probi
 O. Obeso et al. (2025) _Real-Time Detection of Hallucinated Entities in Long-Form Generation_ [arXiv2509.03531](https://arxiv.org/pdf/2509.03531)
 
 A.T. Kalai et al. (2025) _Why Language Models Hallucinate_ [arXiv2509.04664](https://www.arxiv.org/pdf/2509.04664)
+
+J. Yuan et al. (2025) _Give Me FP32 or Give Me Death?
+Challenges and Solutions for Reproducible Reasoning_ [arXiv2506.09501](https://arxiv.org/pdf/2506.09501)
