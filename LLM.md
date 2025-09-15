@@ -1,5 +1,8 @@
 # LLM Related References
 
+## Reviews, Surveys, Perspectives
+T. Xiao & J. Zhu (2025) _Foundations of Large Language Models_ [arXiv2501.09223](https://arxiv.org/pdf/2501.09223)
+
 ## Fine-Tuning LLMs
 C. Wu et al. (2025) _Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization_ [arXiv2505.16737](https://arxiv.org/html/2505.16737v1)
 
