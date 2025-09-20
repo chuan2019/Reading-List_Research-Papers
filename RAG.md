@@ -1,5 +1,8 @@
 # RAG related Papers
 
+## Reviews, Perspective, Surveys
+1. Y. Gao, et al. (2023) _Retrieval-Augmented Generation for Large Language Models: A Survey_ [arXiv:2312.10997](https://arxiv.org/pdf/2312.10997)
+
 ## Testing RAG
 1. C. Niu, et al. (2023) **RAGTruth**: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models [arXiv: 241.00396](https://arxiv.org/abs/2401.00396/), [GitHub Repo](https://github.com/ParticleMedia/RAGTruth)
 2. J. Chen, et al. (2023) Benchmarking Large Language Models in Retrieval-Augmented Generation [arCiv: 2309.01431](https://arxiv.org/abs/2309.01431)
