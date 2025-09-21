@@ -13,3 +13,9 @@
 
 2. Brendan M. and Daniel H. (2023) _Learning Agents Introduction (5.3)_ [Unreal Engine Tutorials](https://dev.epicgames.com/community/learning/tutorials/8OWY/unreal-engine-learning-agents-introduction-5-3)
 
+3. _RLlib: Industry-Grade, Scalable Reinforcement Learning_ [Ray Docs](https://docs.ray.io/en/latest/rllib/index.html)
+
+## Open Source Packages
+1. [Godot RL Agents](https://github.com/edbeeching/godot_rl_agents/tree/main): An Open Source Package that allows video game creators, AI researchers and hobbyists the opportunity to learn complex behaviors for their Non Player Characters or agents
+
+2. [UnrealMLAgents](https://github.com/AlanLaboratory/UnrealMLAgents): The Unreal ML Agents Toolkit is an open-source project that enables Unreal Engine games and simulations to serve as environments for training intelligent agents using deep reinforcement learning. This project is a port of Unity ML-Agents, adapted to work within Unreal Engine.
