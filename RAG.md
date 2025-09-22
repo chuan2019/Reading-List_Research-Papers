@@ -1,7 +1,7 @@
 # RAG related Papers
 
 ## Reviews, Perspective, Surveys
-1. Y. Gao, et al. (2023) _Retrieval-Augmented Generation for Large Language Models: A Survey_ [arXiv:2312.10997](https://arxiv.org/pdf/2312.10997){:target="_blank"}
+1. Y. Gao, et al. (2023) _Retrieval-Augmented Generation for Large Language Models: A Survey_ <a href="https://arxiv.org/pdf/2312.10997" target="_blank" rel="noopener noreferrer">arXiv:2312.10997</a>
 2. W. Fan, et al. (2024) _A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models_ [arXiv:2405.06211](https://arxiv.org/pdf/2405.06211){:target="_blank"}
 
 ## Testing RAG
