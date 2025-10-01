@@ -13,3 +13,6 @@ A.T. Kalai et al. (2025) _Why Language Models Hallucinate_ [arXiv2509.04664](htt
 
 J. Yuan et al. (2025) _Give Me FP32 or Give Me Death?
 Challenges and Solutions for Reproducible Reasoning_ [arXiv2506.09501](https://arxiv.org/pdf/2506.09501)
+
+## Model Evaluations
+E. Miller (2024) _**Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations**_ [arXiv:2411.00640](https://arxiv.org/pdf/2411.00640)
