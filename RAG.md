@@ -9,6 +9,6 @@
 2. J. Chen, et al. (2023) _Benchmarking Large Language Models in Retrieval-Augmented Generation_ [arCiv: 2309.01431](https://arxiv.org/abs/2309.01431)
 
 ## Evaluating RAG
-
+_**Ragas**: supercharge your LLM application evaluations_ [GithubRepo](https://github.com/explodinggradients/ragas)
 
 [Open Source RAG Eval Toolkit (Vectara)](https://github.com/vectara/open-rag-eval)
