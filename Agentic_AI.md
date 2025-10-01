@@ -1,8 +1,8 @@
 # Agentic AI Books
 ## Design Patterns 
-
 Antonio Gulli (2025) [Agentic Design Patterns: a Hands On Guide to Building Intelligent Systems](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic)
 
+S. Yao, et al. (2023) _**ReAct: Synergizing Reasoning and Acting in Language Models**_ [arXiv:2210.03629](https://arxiv.org/pdf/2210.03629)
 
 # Agentic AI Research Papers
 
