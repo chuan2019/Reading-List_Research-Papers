@@ -26,4 +26,7 @@ J. Nam, et al. (2025) _**MLE-STAR: Machine Learning Engineering Agent via Search
   - _**MLE-STAR: A state-of-the-art machine learning engineering agent**_ [Google Research Blog](https://research.google/blog/mle-star-a-state-of-the-art-machine-learning-engineering-agents/)
   - _**Source Code & Examples**_ [Github Repo](https://github.com/jaehyun513/MLE-STAR)
 
+## Open Source Packages & Resources
 [MLE-Agent PyPI Package](https://pypi.org/project/mle-agent/)
+
+[Awesome Agent Failures](https://github.com/vectara/awesome-agent-failures)
