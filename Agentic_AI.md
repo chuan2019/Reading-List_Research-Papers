@@ -4,9 +4,6 @@
 Antonio Gulli (2025) [Agentic Design Patterns: a Hands On Guide to Building Intelligent Systems](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic)
 
 
-
-
-
 # Agentic AI Research Papers
 
 ## Self-Evolving Agents
@@ -22,3 +19,6 @@ X. Luo, et al. (2025) _**Agent Lightning: Train Any Agents with Reinforcement Le
 
 ## Model Architecture Discovery
 Y. Liu, et al. (2025) _**AlphaGo Moment for Model Architecture Discovery**_ [arXiv:2507.18074](https://arxiv.org/abs/2507.18074)
+
+
+J. Nam, et al. (2025) _**MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement**_ [arXiv:2506.15692](https://arxiv.org/pdf/2506.15692)
