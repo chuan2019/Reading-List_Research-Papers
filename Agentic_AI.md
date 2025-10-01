@@ -22,4 +22,4 @@ Y. Liu, et al. (2025) _**AlphaGo Moment for Model Architecture Discovery**_ [arX
 
 
 ## MLE Agents
-J. Nam, et al. (2025) _**MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement**_ [arXiv:2506.15692](https://arxiv.org/pdf/2506.15692)
+J. Nam, et al. (2025) _**MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement**_ [arXiv:2506.15692](https://arxiv.org/pdf/2506.15692); _**MLE-STAR: A state-of-the-art machine learning engineering agent**_ [Google Research Blog](https://research.google/blog/mle-star-a-state-of-the-art-machine-learning-engineering-agents/)
