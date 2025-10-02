@@ -17,3 +17,6 @@ Challenges and Solutions for Reproducible Reasoning_ [arXiv2506.09501](https://a
 ## Model Evaluations
 E. Miller (2024) _Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations_ [arXiv:2411.00640](https://arxiv.org/pdf/2411.00640)
   - _A Statistical Approach to Model Evaluations_ [Anthropic Blog](https://www.anthropic.com/research/statistical-approach-to-model-evals)
+
+## Memory Management
+W. Kwon (2023) _Efficient Memory Management for Large Language Model Serving with PagedAttention_ [arXiv:2309.06180](https://arxiv.org/pdf/2309.06180)
