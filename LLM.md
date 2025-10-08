@@ -23,3 +23,8 @@ W. Kwon (2023) _Efficient Memory Management for Large Language Model Serving wit
 
 ## Mixture of Agents (MoA) Architecture
 J. Wang, et al. (2024) _Mixture-of-Agents Enhances Large Language Model Capabilities_ [arXiv:2406.04692](https://arxiv.org/pdf/2406.04692); Mixture-of-Agents (MoA) [Github Repo](https://github.com/togethercomputer/moa)
+
+## Mixture of Experts (MoE)
+W. Cai, et al. (2025) _A Survey on Mixture of Experts in Large Language Models_ IEEE Transactions on Knowledge and Data Engineering (TKDE) Vol. 37(7), pp. 3896-3915 [TKDE.2025.3554028](https://ieeexplore.ieee.org/document/10937907), [arXiv:2407.06204](https://arxiv.org/pdf/2407.06204)
+
+M. Grootendorst (2024) _A Visual Guide to Mixture of Experts (MoE)_ [Exploring Language Models](https://newsletter.maartengrootendorst.com/) [Oct 07, 2024](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
