@@ -20,3 +20,6 @@ E. Miller (2024) _Adding Error Bars to Evals: A Statistical Approach to Language
 
 ## Memory Management
 W. Kwon (2023) _Efficient Memory Management for Large Language Model Serving with PagedAttention_ [arXiv:2309.06180](https://arxiv.org/pdf/2309.06180)
+
+## Mixture of Agents (MoA) Architecture
+J. Wang, et al. (2024) _Mixture-of-Agents Enhances Large Language Model Capabilities_ [arXiv:2406.04692](https://arxiv.org/pdf/2406.04692); Mixture-of-Agents (MoA) [Github Repo](https://github.com/togethercomputer/moa)
