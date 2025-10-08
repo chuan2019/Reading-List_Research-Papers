@@ -25,6 +25,12 @@ W. Kwon (2023) _Efficient Memory Management for Large Language Model Serving wit
 J. Wang, et al. (2024) _Mixture-of-Agents Enhances Large Language Model Capabilities_ [arXiv:2406.04692](https://arxiv.org/pdf/2406.04692); Mixture-of-Agents (MoA) [Github Repo](https://github.com/togethercomputer/moa)
 
 ## Mixture of Experts (MoE)
-W. Cai, et al. (2025) _A Survey on Mixture of Experts in Large Language Models_ IEEE Transactions on Knowledge and Data Engineering (TKDE) Vol. 37(7), pp. 3896-3915 [TKDE.2025.3554028](https://ieeexplore.ieee.org/document/10937907), [arXiv:2407.06204](https://arxiv.org/pdf/2407.06204)
+W. Cai, et al. (2025) _A Survey on Mixture of Experts in Large Language Models_ **IEEE Transactions on Knowledge and Data Engineering** (TKDE) Vol. 37(7), pp. 3896-3915 [TKDE.2025.3554028](https://ieeexplore.ieee.org/document/10937907), [arXiv:2407.06204](https://arxiv.org/pdf/2407.06204)
+
+N. Shazeer, et al. (2017) _Outrageously Large Neural Networks: the Sparsely-Gated Mixture-of-Experts Layer_ [arXiv:1701.06538](https://arxiv.org/pdf/1701.06538)
+
+R.A. Jacobs, et al. (1991) _Adaptive Mixtures of Local Experts_ **Neural Computation** Vol. 3(1), pp. 79-87 [neco.1991.3.1.79](https://ieeexplore.ieee.org/document/6797059) [jjnh91.pdf](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf)
 
 M. Grootendorst (2024) _A Visual Guide to Mixture of Experts (MoE)_ [Exploring Language Models](https://newsletter.maartengrootendorst.com/) [Oct 07, 2024](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
+
+B. Pandit (2024) _What is Mixture of Experts (MoE)? How it Works, Use Cases & More_ [datacamp.blog](https://www.datacamp.com/blog/mixture-of-experts-moe)
