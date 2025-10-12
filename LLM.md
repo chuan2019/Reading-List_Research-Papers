@@ -6,6 +6,11 @@ T. Xiao & J. Zhu (2025) _Foundations of Large Language Models_ [arXiv2501.09223]
 ## Fine-Tuning LLMs
 C. Wu et al. (2025) _Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization_ [arXiv2505.16737](https://arxiv.org/html/2505.16737v1)
 
+Zhang et al. (2025) _Agentic Context Engineering: Evolving Contexts for Self-Improving
+Language Models_ [arXiv:2510.04618](https://www.arxiv.org/pdf/2510.04618)
+
+
+
 ## Hallucinations
 O. Obeso et al. (2025) _Real-Time Detection of Hallucinated Entities in Long-Form Generation_ [arXiv2509.03531](https://arxiv.org/pdf/2509.03531)
 
