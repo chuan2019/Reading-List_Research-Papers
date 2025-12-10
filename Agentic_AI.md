@@ -6,6 +6,11 @@ S. Yao, et al. (2023) _**ReAct: Synergizing Reasoning and Acting in Language Mod
 
 # Agentic AI Research Papers
 
+
+X. Xu, et al. (2025) _Everything is Context: Agentic File System
+Abstraction for Context Engineering_ [arXiv:2512.05470](https://arxiv.org/pdf/2512.05470)
+
+
 ## Self-Evolving Agents
 H. Gao, et al. (2025) _**A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence**_ [arXiv:2507.21046v2](https://arxiv.org/abs/2507.21046)
 
