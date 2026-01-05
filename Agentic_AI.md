@@ -8,6 +8,7 @@ S. Yao, et al. (2023) _**ReAct: Synergizing Reasoning and Acting in Language Mod
 
 # Agentic AI Research Papers
 
+M.A. Ali and F. Dornaika (2025) _Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions_ [arXiv:2510.2544](https://arxiv.org/pdf/2510.25445v1)
 
 X. Xu, et al. (2025) _Everything is Context: Agentic File System
 Abstraction for Context Engineering_ [arXiv:2512.05470](https://arxiv.org/pdf/2512.05470)
