@@ -13,3 +13,15 @@
 ## Diffusion Network Based Methods
 
 1. L. Wu, et. al. (2021) _DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation_ [arXiv:2002.00844](https://arxiv.org/pdf/2002.00844)
+
+
+
+## Github Repos
+
+[multi-armed-bandits-for-recommendation-systems](https://github.com/Heewon-Hailey/multi-armed-bandits-for-recommendation-systems)
+
+[applied-statistics](https://github.com/JaniceKhor/applied-statistics)
+
+[reinforcement-learning](https://github.com/JaniceKhor/reinforcement-learning)
+
+[bandits](https://github.com/bgalbraith/bandits)
