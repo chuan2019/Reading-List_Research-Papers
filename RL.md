@@ -19,3 +19,11 @@
 1. [Godot RL Agents](https://github.com/edbeeching/godot_rl_agents/tree/main): An Open Source Package that allows video game creators, AI researchers and hobbyists the opportunity to learn complex behaviors for their Non Player Characters or agents
 
 2. [UnrealMLAgents](https://github.com/AlanLaboratory/UnrealMLAgents): The Unreal ML Agents Toolkit is an open-source project that enables Unreal Engine games and simulations to serve as environments for training intelligent agents using deep reinforcement learning. This project is a port of Unity ML-Agents, adapted to work within Unreal Engine.
+
+## Github Repos
+
+[rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo)
+
+[stable-baselines3](https://github.com/DLR-RM/stable-baselines3)
+
+
