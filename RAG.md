@@ -13,6 +13,9 @@
 4. X. Zhu, et al. (2025) _Knowledge Graph-Guided Retrieval Augmented Generation_ [arXiv:2502.06864](https://arxiv.org/pdf/2502.06864)
 
 5. H. Bian (2025) _LLM-empowered Knowledge Graph Construction: A Survey_ [arXiv:2510.20345](https://arxiv.org/pdf/2510.20345)
+  - [[NeurIPS '25] Knowledge Graph Generation from Any Text](https://github.com/stair-lab/kg-gen/tree/main)
+
+
 
 ## Testing RAG
 1. C. Niu, et al. (2023) _**RAGTruth**: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models_ [arXiv: 241.00396](https://arxiv.org/abs/2401.00396/), [GitHub Repo](https://github.com/ParticleMedia/RAGTruth)
