@@ -12,8 +12,10 @@
 
 4. X. Zhu, et al. (2025) _Knowledge Graph-Guided Retrieval Augmented Generation_ [arXiv:2502.06864](https://arxiv.org/pdf/2502.06864)
 
-5. H. Bian (2025) _LLM-empowered Knowledge Graph Construction: A Survey_ [arXiv:2510.20345](https://arxiv.org/pdf/2510.20345)
+5. B. Mo, et al. (2025) _KGGen: Extracting Knowledge Graphs from Plain Text with Language Models_ [arXiv:2502.09956](https://arxiv.org/pdf/2502.09956)
   - [[NeurIPS '25] Knowledge Graph Generation from Any Text](https://github.com/stair-lab/kg-gen/tree/main)
+
+6. H. Bian (2025) _LLM-empowered Knowledge Graph Construction: A Survey_ [arXiv:2510.20345](https://arxiv.org/pdf/2510.20345)
 
 
 
