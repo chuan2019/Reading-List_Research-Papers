@@ -38,4 +38,7 @@ J. Nam, et al. (2025) _**MLE-STAR: Machine Learning Engineering Agent via Search
 
 [Awesome Agent Failures](https://github.com/vectara/awesome-agent-failures)
 
-[Phoenix - an Open-Source AI Observability Platform](https://github.com/Arize-ai/phoenix)
+### AI Observability
+1. Arize Phoenix:
+ - Github Repo: [Phoenix - an Open-Source AI Observability Platform](https://github.com/Arize-ai/phoenix)
+ - Documents: [Phoenix - AI Observability and Evaluation](https://docs.arize.com/phoenix)
