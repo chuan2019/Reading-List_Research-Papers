@@ -37,3 +37,5 @@ J. Nam, et al. (2025) _**MLE-STAR: Machine Learning Engineering Agent via Search
 [MLE-Agent PyPI Package](https://pypi.org/project/mle-agent/)
 
 [Awesome Agent Failures](https://github.com/vectara/awesome-agent-failures)
+
+[Phoenix - an Open-Source AI Observability Platform](https://github.com/Arize-ai/phoenix)
