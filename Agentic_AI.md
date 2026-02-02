@@ -38,6 +38,8 @@ J. Nam, et al. (2025) _**MLE-STAR: Machine Learning Engineering Agent via Search
 
 [Awesome Agent Failures](https://github.com/vectara/awesome-agent-failures)
 
+[PydanticAI vs LangGraph](https://www.youtube.com/watch?v=nuOr5A-FS54&t=161s)
+
 ### AI Observability
 1. Arize Phoenix:
  - Github Repo: [Phoenix - an Open-Source AI Observability Platform](https://github.com/Arize-ai/phoenix)
