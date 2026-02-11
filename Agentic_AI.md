@@ -41,11 +41,25 @@ J. Nam, et al. (2025) _**MLE-STAR: Machine Learning Engineering Agent via Search
 [PydanticAI vs LangGraph](https://www.youtube.com/watch?v=nuOr5A-FS54&t=161s)
 
 ### AI Observability & Evaluation
-1. Arize Phoenix:
+1. Arize AX:
+ - Documents: [Arize AX - AI Engineering Platform focused on evaluation and observability.](https://arize.com/docs/ax)
+ - Comments: The most complete, enterprise-ready evaluation and observability platform - built on open standards, optimized for scale, and enhance by an AI assistant.
+
+2. Arize Phoenix (Open-source counterpart of **Arize AX** offered by Arize AI):
  - Github Repo: [Phoenix - an Open-Source AI Observability Platform](https://github.com/Arize-ai/phoenix)
  - Documents: [Phoenix - AI Observability and Evaluation](https://docs.arize.com/phoenix)
+ - Comments: Open source observability and evaluation for LLMs and agents - self-hosted, Otel-native, and built on the same open schema that powers Arize AX
 
-2. PromptFoo:
+3. LangSmith:
+ - Doucments: [LangSmith Docs](https://docs.langchain.com/langsmith/home)
+ - Comments: Purpose-built for LangChain developers, offering a smooth evaluation and debugging loop - so long as you're comfortable with staying in the LangChain ecosystem.
+
+4. LangFuse:
+ - Github Repo: [LangFuse: Open Source LLM Engineering Platform](https://github.com/langfuse/langfuse)
+ - Documents: [LangFuse Overview](https://langfuse.com/docs)
+ - Comments: lightweight, open source tracing based on OTel, suitable for teams managing their infrastructure independently without needing enterprise-level governance or support.
+
+5. PromptFoo:
  - Documents: [PromptFoo - an open-source CLI and library for evaluating and red-teaming LLM apps](https://www.promptfoo.dev/docs/intro)
  - Github Repo: [Promptfoo: LLM evals & red teaming](https://github.com/promptfoo/promptfoo)
 
