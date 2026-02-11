@@ -40,7 +40,12 @@ J. Nam, et al. (2025) _**MLE-STAR: Machine Learning Engineering Agent via Search
 
 [PydanticAI vs LangGraph](https://www.youtube.com/watch?v=nuOr5A-FS54&t=161s)
 
-### AI Observability
+### AI Observability & Evaluation
 1. Arize Phoenix:
  - Github Repo: [Phoenix - an Open-Source AI Observability Platform](https://github.com/Arize-ai/phoenix)
  - Documents: [Phoenix - AI Observability and Evaluation](https://docs.arize.com/phoenix)
+
+2. PromptFoo:
+ - Documents: [PromptFoo - an open-source CLI and library for evaluating and red-teaming LLM apps](https://www.promptfoo.dev/docs/intro)
+ - Github Repo: [Promptfoo: LLM evals & red teaming](https://github.com/promptfoo/promptfoo)
+
