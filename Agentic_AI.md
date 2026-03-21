@@ -1,5 +1,8 @@
 # Agentic AI Books
 ## Design Patterns 
+
+Y. Liu, et al. (2026) _**MASFactory: A Graph-centric Framework for Orchestrating LLM-Based Multi-Agent Systems with Vibe Graphing**_ [arXiv:2603.06007](https://arxiv.org/pdf/2603.06007)
+
 Antonio Gulli (2025) [Agentic Design Patterns: a Hands On Guide to Building Intelligent Systems](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic)
 
 T. Zhang (2024) _Dissertation: System Architecture for Agentic Large Language Models_ [eScholarship - Open Access Publications from the Unversity of California](https://escholarship.org/uc/item/5zt3h2r2)
