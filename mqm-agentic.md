@@ -3,7 +3,7 @@
 This is a set of recent research papers directly relevant to improving an LLM-based MQM subtitle-error-detection workflow.
 
 
-- T. Kocmi, and C. Federmann (2023) _GEMBA-MQM: Detecting translation quality error spans with GPT-4_ [arXiv2409.14335](https://arxiv.org/pdf/2409.14335)
+- T. Kocmi, and C. Federmann (2023) _GEMBA-MQM: Detecting translation quality error spans with GPT-4_ In _Proceedings of the Eighth Conference on Machine Translation_, [pages 768-775](https://aclanthology.org/2023.wmt-1.64/), Singapore. Association for Computational Linguistics
 
 
 ## Better prompting/decomposition of MQM itself
