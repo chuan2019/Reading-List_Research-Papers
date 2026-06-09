@@ -58,3 +58,32 @@ Though aimed at literary translation, its style-fidelity-focused multi-agent des
 ### Towards Reliable Machine Translation
 
 
+## Datasets for Benchmarking LLM evaluators against MQM labels
+
+### Google WMT MQM Repository
+
+- **Repository** [google/wmt-mqm-human-evaluation GitHub Repository](https://github.com/google/wmt-mqm-human-evaluation?utm_source=chatgpt.com)
+- This repository contains:
+  - WMT 2020 MQM annotations
+  - WMT 2021 MQM annotations
+  - GeneralMT 2022 MQM annotations
+  - GeneralMT 2023 MQM annotations
+  - GeneralMT 2024 MQM annotations
+  - TED-talk MQM annotations
+  for multiple systems and language pairs.
+
+Each annotation record includes information such as:
+
+| Field                 | Available                           |
+| --------------------- | ----------------------------------- |
+| Source segment        | ✓                                   |
+| MT output             | ✓                                   |
+| System name           | ✓                                   |
+| MQM error span        | ✓                                   |
+| MQM category          | ✓                                   |
+| MQM severity          | ✓                                   |
+| Annotator ID          | ✓                                   |
+| Document context      | Partial / recoverable               |
+| Reference translation | Usually available via WMT test sets |
+
+The annotations were created by professional translators rather than crowd workers.
