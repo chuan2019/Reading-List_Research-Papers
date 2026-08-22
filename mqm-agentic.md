@@ -8,6 +8,15 @@ This is a set of recent research papers directly relevant to improving an LLM-ba
 
 - M. Junczys-Dowmunt (2025) _GEMBA-MQM V2: Ten Judgements Are Better Than One_ In _Proceedings of the Tenth Conference on Machine Translation_, [pages 926-933](https://aclanthology.org/2025.wmt-1.67/), Suzhou, China. Association for Computational Linguistics
 
+
+## xCOMET: 
+
+- R. Rei et. al. (2020) _COMET: A Neural Framework for MT Evaluation_ [arXiv2009.09025](https://arxiv.org/pdf/2009.09025)
+- N.M. Guerreiro et. al. (2023) _xCOMET: Transparent Machine Translation Evaluation through Fine-grained Error Detection_ [arXiv2310.10482](https://arxiv.org/pdf/2310.10482)
+
+
+
+
 ## Better prompting/decomposition of MQM itself
 
 ### AutoMQM (the prompting technique behind the GEMBA-MQM line)
