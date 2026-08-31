@@ -25,7 +25,7 @@ O. Khattab, et. al. (2023) _DSPy: Compiling Declarative Language Model Calls int
 
 C. Yang, et. al. (2023) _OPRO: Large Language Models as Optimizers_ [arXiv2309.03409](https://arxiv.org/pdf/2309.03409)
 
-R. Pryzant, et. al. (2023) _Automatic Prompt Optimization with "Gradient Descent" and Beam Search_ [arXiv2305.03495](https://arxiv.org/pdf/2305.03495)
+R. Pryzant, et. al. (2023) _**APO**: Automatic Prompt Optimization with "Gradient Descent" and Beam Search_ [arXiv2305.03495](https://arxiv.org/pdf/2305.03495)
 
 Y. Zhou, et. al. (2023) _**APE**: Large Language Models are Human-Level Prompt Engineers_ [arXiv2211.01910](https://arxiv.org/pdf/2211.01910)
 
