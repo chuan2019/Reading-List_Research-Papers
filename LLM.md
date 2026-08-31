@@ -3,6 +3,23 @@
 ## Reviews, Surveys, Perspectives
 T. Xiao & J. Zhu (2025) _Foundations of Large Language Models_ [arXiv2501.09223](https://arxiv.org/pdf/2501.09223)
 
+## Prompt Engineering
+
+A.L. Zhang, et. al. (2025) _Recursive Language Models_ [arXiv2512.24601](https://arxiv.org/pdf/2512.24601)
+
+L.A. Agrawal, et. al. (2025) _GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning_ [arXiv2507.19457](https://arxiv.org/pdf/2507.19457)
+
+K. Opsahl-Ong, et. al. (2024) _MIPROv2: Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs_ [arXiv2406.11695](https://arxiv.org/pdf/2406.11695)
+
+M. Yuksekgonul, et. al. (2024) _TextGrad: Automatic "Differentiation" via Text_ [arXiv2406.07496](https://arxiv.org/pdf/2406.07496)
+
+X. Amatriain (2024) _Prompt Design and Engineering: Introduction and Advanced Methods_ [arXiv2401.14423v4](https://arxiv.org/pdf/2401.14423v4)
+
+O. Khattab, et. al. (2023) _DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines_ [arXiv2310.03714](https://arxiv.org/pdf/2310.03714)
+
+C. Yang, et. al. (2023) _OPRO: Large Language Models as Optimizers_ [arXiv2309.03409](https://arxiv.org/pdf/2309.03409)
+
+
 ## Fine-Tuning LLMs
 C. Wu et al. (2025) _Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization_ [arXiv2505.16737](https://arxiv.org/html/2505.16737v1)
 
