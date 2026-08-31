@@ -23,12 +23,17 @@ O. Khattab, et. al. (2023) _DSPy: Compiling Declarative Language Model Calls int
 
 C. Yang, et. al. (2023) _OPRO: Large Language Models as Optimizers_ [arXiv2309.03409](https://arxiv.org/pdf/2309.03409)
 
-## KV Cache
+## KV Cache & Prompt Caching
+
+### Radix Attention
 
 L. Zheng, et. al. (2024) _SGLang: Efficient Execution of Structured Language Model Programs_ [arXiv2312.07104](https://arxiv.org/pdf/2312.07104)
 
   - L. Zheng, et. al. (2024) _POSTER & Presentation_ [neurips.cc](https://neurips.cc/virtual/2024/poster/94872)
 
+### Prompt Caching Security
+
+C Gu, et. al. (2025) _Auditing Prompt Caching in Language Model APIs_ [arXiv2502.07776](https://arxiv.org/pdf/2502.07776)
 
 ## Fine-Tuning LLMs
 C. Wu et al. (2025) _Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization_ [arXiv2505.16737](https://arxiv.org/html/2505.16737v1)
