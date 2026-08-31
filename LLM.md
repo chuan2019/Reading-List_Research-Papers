@@ -19,6 +19,8 @@ X. Amatriain (2024) _Prompt Design and Engineering: Introduction and Advanced Me
 
 O. Khattab, et. al. (2023) _DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines_ [arXiv2310.03714](https://arxiv.org/pdf/2310.03714)
 
+  - W.B. Kennedy (2026) _Automate Writing Your LLM Prompts_ [towardsdatascience.com](https://towardsdatascience.com/automate-writing-your-llm-prompts/)
+
 C. Yang, et. al. (2023) _OPRO: Large Language Models as Optimizers_ [arXiv2309.03409](https://arxiv.org/pdf/2309.03409)
 
 
