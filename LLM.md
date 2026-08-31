@@ -67,3 +67,18 @@ R.A. Jacobs, et al. (1991) _Adaptive Mixtures of Local Experts_ **Neural Computa
 M. Grootendorst (2024) _A Visual Guide to Mixture of Experts (MoE)_ [Exploring Language Models](https://newsletter.maartengrootendorst.com/) [Oct 07, 2024](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
 
 B. Pandit (2024) _What is Mixture of Experts (MoE)? How it Works, Use Cases & More_ [datacamp.blog](https://www.datacamp.com/blog/mixture-of-experts-moe)
+
+
+
+## LLM Foundamentals
+
+Andrew Karpathy (2023) _Let's build GPT: from scratch, in code, spelled out_ [YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
+3Blue1Brown (2024) _Large Language Models explained briefly_ [YouTube](https://www.youtube.com/watch?v=LPZh9BOjkQs&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
+
+3Blue1Brown (2024) _Transformers, the tech behind LLMs_ [YouTube](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
+
+3Blue1Brown (2024) _Attention in transformers, step-by-step_ [YouTube](https://www.youtube.com/watch?v=eMlx5fFNoYc&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=7)
+
+3Blue1Brown (2024) _How might LLMs store facts_ [YouTube](https://www.youtube.com/watch?v=9-Jl0dxWQs8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=8)
+
