@@ -5,6 +5,8 @@ T. Xiao & J. Zhu (2025) _Foundations of Large Language Models_ [arXiv2501.09223]
 
 ## Prompt Engineering
 
+### Automate Prompt Writing
+
 A.L. Zhang, et. al. (2025) _Recursive Language Models_ [arXiv2512.24601](https://arxiv.org/pdf/2512.24601)
 
 L.A. Agrawal, et. al. (2025) _GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning_ [arXiv2507.19457](https://arxiv.org/pdf/2507.19457)
@@ -22,6 +24,16 @@ O. Khattab, et. al. (2023) _DSPy: Compiling Declarative Language Model Calls int
   - W.B. Kennedy (2026) _Automate Writing Your LLM Prompts_ [towardsdatascience.com](https://towardsdatascience.com/automate-writing-your-llm-prompts/)
 
 C. Yang, et. al. (2023) _OPRO: Large Language Models as Optimizers_ [arXiv2309.03409](https://arxiv.org/pdf/2309.03409)
+
+R. Pryzant, et. al. (2023) _Automatic Prompt Optimization with "Gradient Descent" and Beam Search_ [arXiv2305.03495](https://arxiv.org/pdf/2305.03495)
+
+### Prompt Evaluating
+
+C. Shi, et. al. (2024) _Efficient Prompt Optimization Through the Lens of Best Arm Identification_ [arXiv2402.09723](https://arxiv.org/pdf/2402.09723)
+
+Y. Zhou, et. al. (2023) _Large Language Models are Human-Level Prompt Engineers_ [arXiv2211.01910](https://arxiv.org/pdf/2211.01910)
+
+  - Efficient NLP (2026) _Stop Wasting Your Eval Budget: Multi-Armed Bandits for Prompt Testing_ [YouTube](https://www.youtube.com/watch?v=14omHDhrx8o)
 
 ## KV Cache & Prompt Caching
 
