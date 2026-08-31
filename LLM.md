@@ -13,6 +13,8 @@ K. Opsahl-Ong, et. al. (2024) _MIPROv2: Optimizing Instructions and Demonstratio
 
 M. Yuksekgonul, et. al. (2024) _TextGrad: Automatic "Differentiation" via Text_ [arXiv2406.07496](https://arxiv.org/pdf/2406.07496)
 
+  - J.E. Khoury (2024) _TEXTGRAD vs DSPY: Revolutionizing AI System Optimization through Automatic Text-Based Differentiation_ [medium.com](https://medium.com/@jelkhoury880/textgrad-vs-dspy-revolutionizing-ai-system-optimization-through-automatic-text-based-58f8ee776447)
+
 X. Amatriain (2024) _Prompt Design and Engineering: Introduction and Advanced Methods_ [arXiv2401.14423v4](https://arxiv.org/pdf/2401.14423v4)
 
 O. Khattab, et. al. (2023) _DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines_ [arXiv2310.03714](https://arxiv.org/pdf/2310.03714)
