@@ -9,7 +9,7 @@ T. Xiao & J. Zhu (2025) _Foundations of Large Language Models_ [arXiv2501.09223]
 
 A.L. Zhang, et. al. (2025) _Recursive Language Models_ [arXiv2512.24601](https://arxiv.org/pdf/2512.24601)
 
-L.A. Agrawal, et. al. (2025) _GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning_ [arXiv2507.19457](https://arxiv.org/pdf/2507.19457)
+L.A. Agrawal, et. al. (2025) _**GEPA**: Reflective Prompt Evolution Can Outperform Reinforcement Learning_ [arXiv2507.19457](https://arxiv.org/pdf/2507.19457)
 
 K. Opsahl-Ong, et. al. (2024) _MIPROv2: Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs_ [arXiv2406.11695](https://arxiv.org/pdf/2406.11695)
 
