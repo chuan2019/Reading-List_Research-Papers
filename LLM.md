@@ -82,3 +82,4 @@ Andrew Karpathy (2023) _Let's build GPT: from scratch, in code, spelled out_ [Yo
 
 3Blue1Brown (2024) _How might LLMs store facts_ [YouTube](https://www.youtube.com/watch?v=9-Jl0dxWQs8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=8)
 
+Efficient NLP (2023) _The KV Cache: Memory Usage in Transformers_ [YouTube](https://www.youtube.com/watch?v=80bIUggRJf4)
