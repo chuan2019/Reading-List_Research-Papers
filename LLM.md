@@ -27,11 +27,11 @@ C. Yang, et. al. (2023) _OPRO: Large Language Models as Optimizers_ [arXiv2309.0
 
 R. Pryzant, et. al. (2023) _Automatic Prompt Optimization with "Gradient Descent" and Beam Search_ [arXiv2305.03495](https://arxiv.org/pdf/2305.03495)
 
+Y. Zhou, et. al. (2023) _**APE**: Large Language Models are Human-Level Prompt Engineers_ [arXiv2211.01910](https://arxiv.org/pdf/2211.01910)
+
 ### Prompt Evaluating
 
 C. Shi, et. al. (2024) _Efficient Prompt Optimization Through the Lens of Best Arm Identification_ [arXiv2402.09723](https://arxiv.org/pdf/2402.09723)
-
-Y. Zhou, et. al. (2023) _Large Language Models are Human-Level Prompt Engineers_ [arXiv2211.01910](https://arxiv.org/pdf/2211.01910)
 
   - Efficient NLP (2026) _Stop Wasting Your Eval Budget: Multi-Armed Bandits for Prompt Testing_ [YouTube](https://www.youtube.com/watch?v=14omHDhrx8o)
 
