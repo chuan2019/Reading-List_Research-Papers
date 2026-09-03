@@ -39,6 +39,8 @@ C. Shi, et. al. (2024) _Efficient Prompt Optimization Through the Lens of Best A
 
 ### Radix Attention
 
+I. Gim, et al. (2024) _Prompt Cache: Modular Attention Reuse for Low-Latency Inference._ Proceedings of Machine Learning and Systems 6 (MLSys 2024), [pp. 325–338](https://proceedings.mlsys.org/paper_files/paper/2024/file/a66caa1703fe34705a4368c3014c1966-Paper-Conference.pdf), Santa Clara, CA, May 13–16, 2024.
+
 L. Zheng, et. al. (2024) _SGLang: Efficient Execution of Structured Language Model Programs_ [arXiv2312.07104](https://arxiv.org/pdf/2312.07104)
 
   - L. Zheng, et. al. (2024) _POSTER & Presentation_ [neurips.cc](https://neurips.cc/virtual/2024/poster/94872)
