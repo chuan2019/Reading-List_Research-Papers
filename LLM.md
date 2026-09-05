@@ -5,9 +5,9 @@ T. Xiao & J. Zhu (2025) _Foundations of Large Language Models_ [arXiv2501.09223]
 
 ## Authorship Attribution
 
-B. Huang, C. Chen, and K. Shu (2024) _Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges_ **SIGKDD explorations** vol 26(2), 21-43, [arXiv2408.08946](https://arxiv.org/pdf/2408.08946)
+B. Huang, C. Chen, & K. Shu (2024) _Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges_ **SIGKDD explorations** vol 26(2), 21-43, [arXiv2408.08946](https://arxiv.org/pdf/2408.08946)
 
-
+J. Bevendorff, et al. (2025) _The Two Paradigms of LLM Detection: Authorship Attribution vs Authorship Verification_ In _**Findings of the Association for Computational Linguistics: ACL 2025**_, 3762-3787, Vienna, Austria. [2025.findings-acl.194](https://aclanthology.org/2025.findings-acl.194.pdf)
 
 
 
