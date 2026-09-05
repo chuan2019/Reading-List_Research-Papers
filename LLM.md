@@ -79,7 +79,7 @@ E. Miller (2024) _Adding Error Bars to Evals: A Statistical Approach to Language
 
 [uqlm: Uncertainty Quantification for Language Models](https://github.com/cvs-health/uqlm)
 
-
+S. Gupta & J. Chopra (2026) _Building Closed-Loop Evals for a Multmodal Agent at Scale_ [Youtube](https://www.youtube.com/watch?v=31GUkCBD-Uc)
 
 
 ## Memory Management
