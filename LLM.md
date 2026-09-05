@@ -9,7 +9,7 @@ B. Huang, C. Chen, & K. Shu (2024) _Authorship Attribution in the Era of LLMs: P
 
 J. Bevendorff, et al. (2025) _The Two Paradigms of LLM Detection: Authorship Attribution vs Authorship Verification_ In _**Findings of the Association for Computational Linguistics: ACL 2025**_, 3762-3787, Vienna, Austria. [2025.findings-acl.194](https://aclanthology.org/2025.findings-acl.194.pdf)
 
-
+C. Aggazzotti, et al. (2025) _The Impact of Automatic Speech Transcription on Speaker Attribution_ [arXiv2507.08660](https://arxiv.org/pdf/2507.08660)
 
 ## Prompt Engineering
 
