@@ -3,6 +3,14 @@
 ## Reviews, Surveys, Perspectives
 T. Xiao & J. Zhu (2025) _Foundations of Large Language Models_ [arXiv2501.09223](https://arxiv.org/pdf/2501.09223)
 
+## Authorship Attribution
+
+B. Huang, C. Chen, and K. Shu (2024) _Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges_ **SIGKDD explorations** vol 26(2), 21-43, [arXiv2408.08946](https://arxiv.org/pdf/2408.08946)
+
+
+
+
+
 ## Prompt Engineering
 
 ### Automate Prompt Writing
